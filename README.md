@@ -1,6 +1,6 @@
 ## Role-Based Access Control (RBAC) API
 
-This is a Node.js API built to implement **Role-Based Access Control (RBAC)** for user authentication and authorization. The project allows users to register, login, and access resources based on their assigned roles, with support for JWT authentication and **Two-Factor Authentication (2FA)**.
+This is a Node.js API built to implement **Role-Based Access Control (RBAC)** for user authentication and authorization. The project allows users to register, login, and access resources based on their assigned roles, with support for JWT authentication
 
 ## Features
 
