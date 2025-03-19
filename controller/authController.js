@@ -67,6 +67,7 @@ const logIn = async (req, res) => {
     });
   }
 };
+
 const logOut = async (req, res) => {};
 
 module.exports = {
